@@ -84,7 +84,7 @@ This dataset is designed for:
 ## Dataset Access
 
 You can access the dataset through the following files:
-- [X_train_2025.csv](link-to-x-train-2025.csv)
+- [X_train_2025.csv](ICU%20Patient%20Outcome%20Prediction/Directory%20actions/x-train-2025.csv)
 - [y_train_2025.csv](link-to-y-train-2025.csv)
 
 Please make sure to respect patient privacy and use this dataset for academic or research purposes only. All patient identifiers are anonymized, and no personally identifiable information (PII) is included.
